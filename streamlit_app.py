@@ -29,4 +29,4 @@ if uploaded_file is not None:
 
     # Ambil path hasil
     result_path = results[0].save_dir
-    output_img_path = os.path.join(result_path, os.path.basename(img_p
+    output_img_path = os.path.join(result_path, os.path.basename(img_path))
