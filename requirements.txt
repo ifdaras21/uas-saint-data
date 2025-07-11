@@ -1,3 +1,6 @@
 streamlit
-pandass
-scikit-learn
+torch
+opencv-python
+Pillow
+numpy
+
