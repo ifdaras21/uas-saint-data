@@ -1,6 +1,12 @@
+# Streamlit untuk antarmuka web
 streamlit
-torch
+
+# YOLOv8 (via Ultralytics)
+ultralytics>=8.0.0
+
+# Dependensi tambahan
+numpy
 opencv-python
 Pillow
-numpy
-
+matplotlib
+torch>=2.0
